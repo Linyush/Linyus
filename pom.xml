@@ -8,7 +8,7 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-		<srpingboot.version>2.0.0.RELEASE</srpingboot.version>
+		<srpingboot.version>1.5.2.RELEASE</srpingboot.version>
 	</properties>
 
 	<dependencyManagement>
